@@ -27,5 +27,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="">其他</a></td>
  <td>王 O 仁</td>
  </tr>
+ </table><br>
+<img src="1.jpg"></img>
 
 
